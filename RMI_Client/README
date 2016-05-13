@@ -1,0 +1,8 @@
+
+run RMI_Client by using below command:
+java -classpath RMI_Server.jar:. RMI_Client [IP_address] [file name]
+
+IP_address is RMI Server address
+file name is which file you will read 
+
+To know more datails you can browse http://blog.csdn.net/zhangpan19910604/article/details/51398408
