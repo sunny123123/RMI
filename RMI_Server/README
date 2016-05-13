@@ -1,0 +1,5 @@
+
+run RMI_Server by using below command:
+java -classpath RMI_Server.jar:. RMI_Server
+
+To know more datails you can browse http://blog.csdn.net/zhangpan19910604/article/details/51398408 
